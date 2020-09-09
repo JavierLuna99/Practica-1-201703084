@@ -1,3 +1,4 @@
+//Javier Enrique Luna Díaz 201703084
 package practica1_20084_competencias;
 
 import javax.swing.JTextArea;
